@@ -1,7 +1,7 @@
 # Bag Dem Crystals
 
 ![Psychic-Game-Screenshot1](
-        unit-4-game.github.io/assets/images/Screen Shot 2019-04-03 at 4.46.50 PM.png
+        assets/images/Screen Shot 2019-04-03 at 4.46.50 PM.png
       )
 
 ### Overview
