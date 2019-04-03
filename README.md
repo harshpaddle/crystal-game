@@ -1,5 +1,7 @@
 # Bag Dem Crystals
 
+![Psychic-Game-Screenshot1](assets/images/screen)
+
 ### Overview
 
 The purpose of Bag Dem Crystals game is to add up the wieght of your current bag to perfectly match the weight of the target bag in order to win. Target bag will have a new weight to be matched to every new game. You'll be given to three crystals, all weighing different every game. Add them your bag/weight by clicking on them. As you're adding weight, try not to add too much weight.
