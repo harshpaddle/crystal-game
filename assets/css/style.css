@@ -2,6 +2,29 @@ li {
   line-height: 30px;
 }
 
+.heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: darksalmon;
+  color: salmon;
+}
+
 img {
-  border: red 2px solid;
+  box-shadow: 5px 10px #888888;
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+img:hover {
+  opacity: 1;
+}
+
+img:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.heading {
+  text-shadow: 0 0 13px #FF0000;
 }
