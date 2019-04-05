@@ -1,7 +1,7 @@
 # Bag Dem Crystals
 
 ![Psychic-Game-Screenshot1](
-        assets/images/Screen Shot 2019-04-03 at 4.46.50 PM.png
+        https://github.com/harshpaddle/unit-4-game.github.io/blob/master/assets/images/Screen%20Shot%202019-04-03%20at%204.46.50%20PM.png
       )
 
 ### Overview
