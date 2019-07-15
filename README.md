@@ -16,7 +16,7 @@ The purpose of Bag Dem Crystals game is to add up the wieght of your current bag
 
 ### Game Link
 
-https://harshpaddle.github.io/unit-4-game.github.io/
+https://harshpaddle.github.io/crystal-game/
 
 ### Game guidelines
 
